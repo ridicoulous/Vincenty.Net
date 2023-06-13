@@ -11,7 +11,7 @@ using System;
 
 using NUnit.Framework;
 
-namespace Gavaghan.Geodesy.Test
+namespace Vincenty.Net.Test
 {
     [TestFixture]
     public class GeodeticCalculatorTest

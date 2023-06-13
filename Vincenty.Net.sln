@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vincenty.Net", "Vincenty.Ne
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vincenty.Net.Tests", "Vincenty.Net.Tests\Vincenty.Net.Tests.csproj", "{D61615CC-953B-4354-B095-C07D24EB2077}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vincenty.Net.Example", "Vincenty.Net.Example\Vincenty.Net.Example.csproj", "{861AF7FE-4BE5-4711-8B91-172E88EF6D12}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{D61615CC-953B-4354-B095-C07D24EB2077}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D61615CC-953B-4354-B095-C07D24EB2077}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D61615CC-953B-4354-B095-C07D24EB2077}.Release|Any CPU.Build.0 = Release|Any CPU
+		{861AF7FE-4BE5-4711-8B91-172E88EF6D12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{861AF7FE-4BE5-4711-8B91-172E88EF6D12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{861AF7FE-4BE5-4711-8B91-172E88EF6D12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{861AF7FE-4BE5-4711-8B91-172E88EF6D12}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

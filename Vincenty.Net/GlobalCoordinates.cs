@@ -10,7 +10,7 @@
 using System;
 using System.Runtime.Serialization;
 
-namespace Gavaghan.Geodesy
+namespace Vincenty.Net
 {
     /// <summary>
     /// Encapsulation of latitude and longitude coordinates on a globe.  Negative

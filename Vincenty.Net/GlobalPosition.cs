@@ -10,7 +10,7 @@
 using System;
 using System.Runtime.Serialization;
 
-namespace Gavaghan.Geodesy
+namespace Vincenty.Net
 {
     /// <summary>
     /// Encapsulates a three dimensional location on a globe (GlobalCoordinates combined with

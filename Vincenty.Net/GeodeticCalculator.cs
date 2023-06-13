@@ -9,7 +9,7 @@
  */
 using System;
 
-namespace Gavaghan.Geodesy
+namespace Vincenty.Net
 {
     /// <summary>
     /// Implementation of Thaddeus Vincenty's algorithms to solve the direct and

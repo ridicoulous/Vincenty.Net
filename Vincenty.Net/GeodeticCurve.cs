@@ -10,7 +10,7 @@
 using System;
 using System.Runtime.Serialization;
 
-namespace Gavaghan.Geodesy
+namespace Vincenty.Net
 {
     /// <summary>
     /// This is the outcome of a geodetic calculation.  It represents the path and

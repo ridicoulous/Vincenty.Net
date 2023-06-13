@@ -1,4 +1,4 @@
-﻿namespace Gavaghan.Geodesy
+﻿namespace Vincenty.Net
 {
     internal static class HashCodeBuilder
     {
