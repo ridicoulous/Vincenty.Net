@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vincenty.Net", "Vincenty.Net\Vincenty.Net.csproj", "{8506002C-8F67-4DC1-BA00-4FCFCF06B522}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vincenty.Net.Tests", "Vincenty.Net.Tests\Vincenty.Net.Tests.csproj", "{D61615CC-953B-4354-B095-C07D24EB2077}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8506002C-8F67-4DC1-BA00-4FCFCF06B522}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8506002C-8F67-4DC1-BA00-4FCFCF06B522}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8506002C-8F67-4DC1-BA00-4FCFCF06B522}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8506002C-8F67-4DC1-BA00-4FCFCF06B522}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D61615CC-953B-4354-B095-C07D24EB2077}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D61615CC-953B-4354-B095-C07D24EB2077}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D61615CC-953B-4354-B095-C07D24EB2077}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D61615CC-953B-4354-B095-C07D24EB2077}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {45E94E14-EF97-4A9D-A545-7A607C746AAF}
+	EndGlobalSection
+EndGlobal
